@@ -12,7 +12,8 @@ Quartus prime
 
 SR Flip-Flop SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
 
-![image](https://github.com/Sheetalshee/SR-FLIPFLOP-USING-CASE/assets/144979107/5d0c1749-c4a1-449a-8284-37380eff64ed)
+![image](https://github.com/Sheetalshee/SR-FLIPFLOP-USING-CASE/assets/144979107/a2a79c00-c444-443b-9753-21409fd7a1bf)
+
 
 
 
@@ -25,7 +26,8 @@ This circuit has two inputs S & R and two outputs Qtt & Qtt’. The operation of
  
 Here, Qtt & Qt+1t+1 are present state & next state respectively. So, SR flip-flop can be used for one of these three functions such as Hold, Reset & Set based on the input conditions, when positive transition of clock signal is applied. The following table shows the characteristic table of SR flip-flop. Present Inputs Present State Next State
 
-![image](https://github.com/Sheetalshee/SR-FLIPFLOP-USING-CASE/assets/144979107/2a6f1f03-67eb-4ef5-adae-3477586ca47e)
+![image](https://github.com/Sheetalshee/SR-FLIPFLOP-USING-CASE/assets/144979107/9ab29457-800b-4c66-af86-d4cdc7874354)
+
 
 
 
